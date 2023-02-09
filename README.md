@@ -1,6 +1,6 @@
-### Saludos 👋
+### Bienvenidos 👋
 
-**Eduardo Rene Beltran***
+**Eduardo Rene Beltran**
 
 - 🔭 Computacional Systems Engineering
 - 🌱 CS student
