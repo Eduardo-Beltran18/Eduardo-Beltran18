@@ -2,5 +2,5 @@
 
 **Eduardo Rene Beltran**
 
-- 🔭 Computacional Systems Engineering
-- 🌱 CS student
+- 🔭 Ingenieria en sistemas computacionales
+- 🌱 _Instituto Tecnológico de Tijuana (ITT), Tecnológico Nacional de México_
